@@ -1,4 +1,4 @@
-# Authenticated Scan
+# 
 
 ## Intro
 
