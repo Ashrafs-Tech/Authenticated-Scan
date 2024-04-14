@@ -22,7 +22,7 @@ Now I will complete the configurations needed for an authenticated scan.
 
 ![VL 32](https://github.com/Ashrafs-Tech/Authenticated-Scan/assets/166546026/56c4bc17-5e99-4ad9-a5b8-bef1640b333e)
 
-- Now I will set ta "Registry Key"
+- Now I will set the "Registry Key"
 - In the start menu, I typed Registry Editor and clicked it.
 
 ![VL 33](https://github.com/Ashrafs-Tech/Authenticated-Scan/assets/166546026/47409973-364d-49f5-9ecc-23aa29b5d37b)
