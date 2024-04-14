@@ -1,5 +1,8 @@
 # Creating more insecurities
 
+![image](https://github.com/Ashrafs-Tech/Authenticated-Scan/assets/166546026/e794e7a4-1714-4560-ab74-f4a30b1c3674)
+
+
 ## Intro
 
 Now I will complete the configurations needed for an authenticated scan.
