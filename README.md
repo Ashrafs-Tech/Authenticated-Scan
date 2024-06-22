@@ -1,4 +1,4 @@
-# Creating more insecurities
+# Make Configurations for Authenticated scans 
 
 ![image](https://github.com/Ashrafs-Tech/Authenticated-Scan/assets/166546026/e794e7a4-1714-4560-ab74-f4a30b1c3674)
 
